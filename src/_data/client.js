@@ -1,15 +1,15 @@
 module.exports = {
-    name: "Code Stitch Web Designs",
-    email: "help@codestitch.app",
-    phoneForTel: "555-779-4407",
-    phoneFormatted: "(555) 779-4407",
+    name: "Cedar Web Designs",
+    email: "support@cedarwebdesigns.com",
+    phoneForTel: "123-456-7890",
+    phoneFormatted: "(123) 456-7890",
     address: {
         lineOne: "First Address Line",
         lineTwo: "Second Address Line",
-        city: "Denver",
+        city: "North Caloocan",
         state: "CO",
-        zip: "80206",
-        country: "US",
+        zip: "1400",
+        country: "PH",
         mapLink: "https://goo.gl/maps/UAQn4vuGDiwv7DV39",
     },
     socials: {
